@@ -1,1 +1,0 @@
-# proba jo herlyre megy-e
