@@ -18,7 +18,7 @@
 # A fent eméített python file-okat és benne a megoldásodat kérlek a saját selenium-py-peldatar github repo forkodban
 # egy python-homework nevű mappába helyezd el.
 
-########################################################## MEGOLDAS
+########################################################### MEGOLDAS
 # kisbetuk unicode: 97-122
 
 sorok_szama = int(input("Kérem adja meg a sorok számát (min. 1, legfeljebb 10): "))
