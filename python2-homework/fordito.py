@@ -11,7 +11,7 @@
 # A fent eméített python file-okat és benne a megoldásodat kérlek a saját selenium-py-peldatar github repo forkodban
 # egy python2-homework nevű mappába helyezd el.
 
-####################################################### MEGOLDAS
+######################################################## MEGOLDAS
 
 print("A felhasználótól pozitív számokat kérek be mindaddig, amíg a felhasználó nullát nem ad be!")
 szamok = []
