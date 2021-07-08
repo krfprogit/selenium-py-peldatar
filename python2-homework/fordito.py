@@ -24,9 +24,11 @@ while True:
             szamok.append(szam)
         except:
             print("Csak pozitív számot fogadok el!")
+            print("Kilépéshez nyomja meg a nullát!")
     if szam == 0:
         break
     print("Csak pozitív számot fogadok el!")
+    print("Kilépéshez nyomja meg a nullát!")
 
 szamok.reverse()
 print("A lista elemei fordított sorrendben:")
